@@ -34,7 +34,7 @@ Bu proje, **Next.js**, **Tailwind CSS**, **Redux Toolkit**, **Framer Motion** ve
 ## 🚀 Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone https://github.com/furkanislek/admin-dashboard.git
+cd admin-dashboard
 npm install
 npm run dev
