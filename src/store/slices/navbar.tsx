@@ -5,7 +5,7 @@ interface NavbarState {
 }
 
 const initialState: NavbarState = {
-  openStatus: true,
+  openStatus: false,
 };
 
 export const navbarSlice = createSlice({
