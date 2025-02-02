@@ -15,7 +15,7 @@ const ConnectedAccounts = () => {
 			id: 2,
 			name: "Facebook",
 			connected: false,
-			icon: "/facebook.svg",
+			icon: "/facebook.png",
 		},
 		{
 			id: 3,
